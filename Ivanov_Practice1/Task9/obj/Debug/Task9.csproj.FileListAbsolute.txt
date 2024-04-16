@@ -1,0 +1,14 @@
+D:\PracticaC#\Day2\Task1\Task9\bin\Debug\Task9.exe.config
+D:\PracticaC#\Day2\Task1\Task9\bin\Debug\Task9.exe
+D:\PracticaC#\Day2\Task1\Task9\bin\Debug\Task9.pdb
+D:\PracticaC#\Day2\Task1\Task9\obj\Debug\Task9.csproj.AssemblyReference.cache
+D:\PracticaC#\Day2\Task1\Task9\obj\Debug\Task9.csproj.CoreCompileInputs.cache
+D:\PracticaC#\Day2\Task1\Task9\obj\Debug\Task9.exe
+D:\PracticaC#\Day2\Task1\Task9\obj\Debug\Task9.pdb
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day2\Practice2\Task9\bin\Debug\Task9.exe.config
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day2\Practice2\Task9\bin\Debug\Task9.exe
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day2\Practice2\Task9\bin\Debug\Task9.pdb
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day2\Practice2\Task9\obj\Debug\Task9.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day2\Practice2\Task9\obj\Debug\Task9.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day2\Practice2\Task9\obj\Debug\Task9.exe
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day2\Practice2\Task9\obj\Debug\Task9.pdb
