@@ -1,0 +1,4 @@
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day2\Practice2\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day2\Practice2\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day2\Practice2\Task1\obj\Debug\Practica2.exe
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day2\Practice2\Task1\obj\Debug\Practica2.pdb
