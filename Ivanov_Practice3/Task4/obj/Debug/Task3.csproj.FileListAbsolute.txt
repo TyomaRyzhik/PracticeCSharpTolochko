@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day4\Practica4\Task4\bin\Debug\Task4.exe.config
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day4\Practica4\Task4\bin\Debug\Task4.exe
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day4\Practica4\Task4\bin\Debug\Task4.pdb
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day4\Practica4\Task4\obj\Debug\Task3.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day4\Practica4\Task4\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day4\Practica4\Task4\obj\Debug\Task4.exe
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day4\Practica4\Task4\obj\Debug\Task4.pdb
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day4\Practice4\Task4\bin\Debug\Task4.exe.config
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day4\Practice4\Task4\bin\Debug\Task4.exe
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day4\Practice4\Task4\bin\Debug\Task4.pdb
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day4\Practice4\Task4\obj\Debug\Task3.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day4\Practice4\Task4\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day4\Practice4\Task4\obj\Debug\Task4.exe
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day4\Practice4\Task4\obj\Debug\Task4.pdb
