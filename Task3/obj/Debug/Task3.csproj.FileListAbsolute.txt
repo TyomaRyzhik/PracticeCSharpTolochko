@@ -1,0 +1,7 @@
+D:\PracticaC#\Day4\Practica4\Task3\bin\Debug\Task3.exe.config
+D:\PracticaC#\Day4\Practica4\Task3\bin\Debug\Task3.exe
+D:\PracticaC#\Day4\Practica4\Task3\bin\Debug\Task3.pdb
+D:\PracticaC#\Day4\Practica4\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+D:\PracticaC#\Day4\Practica4\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\PracticaC#\Day4\Practica4\Task3\obj\Debug\Task3.exe
+D:\PracticaC#\Day4\Practica4\Task3\obj\Debug\Task3.pdb
