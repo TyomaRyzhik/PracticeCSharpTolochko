@@ -1,7 +1,0 @@
-D:\PracticaC#\Day14\Practica13\Task2\bin\Debug\Task2.exe.config
-D:\PracticaC#\Day14\Practica13\Task2\bin\Debug\Task2.exe
-D:\PracticaC#\Day14\Practica13\Task2\bin\Debug\Task2.pdb
-D:\PracticaC#\Day14\Practica13\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
-D:\PracticaC#\Day14\Practica13\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
-D:\PracticaC#\Day14\Practica13\Task2\obj\Debug\Task2.exe
-D:\PracticaC#\Day14\Practica13\Task2\obj\Debug\Task2.pdb
