@@ -1,7 +1,0 @@
-C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day14\Practica13\Task1\obj\Debug\Task1-2.csproj.AssemblyReference.cache
-C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day14\Practica13\Task1\obj\Debug\Task1-2.csproj.CoreCompileInputs.cache
-C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day14\Practica13\Task1\obj\Debug\Task1.exe
-C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day14\Practica13\Task1\obj\Debug\Task1.pdb
-C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day14\Practica13\Task1\bin\Debug\Task1.exe.config
-C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day14\Practica13\Task1\bin\Debug\Task1.exe
-C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day14\Practica13\Task1\bin\Debug\Task1.pdb
