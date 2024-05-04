@@ -1,0 +1,14 @@
+D:\PracticaC#\Day15\Practica14\Task2\bin\Debug\Task2.exe.config
+D:\PracticaC#\Day15\Practica14\Task2\bin\Debug\Task2.exe
+D:\PracticaC#\Day15\Practica14\Task2\bin\Debug\Task2.pdb
+D:\PracticaC#\Day15\Practica14\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+D:\PracticaC#\Day15\Practica14\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+D:\PracticaC#\Day15\Practica14\Task2\obj\Debug\Task2.exe
+D:\PracticaC#\Day15\Practica14\Task2\obj\Debug\Task2.pdb
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day15\Practica14\Task2\bin\Debug\Task2.exe.config
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day15\Practica14\Task2\bin\Debug\Task2.exe
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day15\Practica14\Task2\bin\Debug\Task2.pdb
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day15\Practica14\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day15\Practica14\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day15\Practica14\Task2\obj\Debug\Task2.exe
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Day15\Practica14\Task2\obj\Debug\Task2.pdb
