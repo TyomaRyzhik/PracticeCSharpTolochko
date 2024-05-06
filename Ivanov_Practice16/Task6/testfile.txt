@@ -1,0 +1,7 @@
+Create a text file that will consist of various words. This can be done in any text editor, for example, in “Notepad”. After creating the file, perform the following actions:
+
+Display all words that start with a given letter. For this, you can use the StartsWith() method in C#.
+Display all words whose length equals a given number. For this, you can use the Length property in C#.
+Display all words that start and end with the same letter. For this, you can use the First() and Last() methods in C#.
+Display all words that start with the same letter as the last word in the file. For this, you can use the Last() method to get the last word, and then StartsWith() to compare the first letter of each word with the first letter of the last word. 
+Please note that to perform these actions, you will need to read the contents of the file and split it into words. You can use the ReadAllText() method to read the contents of the file and the Split() method to split the text into words.
