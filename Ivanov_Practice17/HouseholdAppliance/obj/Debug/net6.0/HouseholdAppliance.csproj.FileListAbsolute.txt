@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice17\HouseholdAppliance\bin\Debug\net6.0\HouseholdAppliance.exe
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice17\HouseholdAppliance\bin\Debug\net6.0\HouseholdAppliance.deps.json
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice17\HouseholdAppliance\bin\Debug\net6.0\HouseholdAppliance.runtimeconfig.json
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice17\HouseholdAppliance\bin\Debug\net6.0\HouseholdAppliance.dll
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice17\HouseholdAppliance\bin\Debug\net6.0\HouseholdAppliance.pdb
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice17\HouseholdAppliance\obj\Debug\net6.0\HouseholdAppliance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice17\HouseholdAppliance\obj\Debug\net6.0\HouseholdAppliance.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice17\HouseholdAppliance\obj\Debug\net6.0\HouseholdAppliance.AssemblyInfo.cs
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice17\HouseholdAppliance\obj\Debug\net6.0\HouseholdAppliance.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice17\HouseholdAppliance\obj\Debug\net6.0\HouseholdAppliance.dll
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice17\HouseholdAppliance\obj\Debug\net6.0\refint\HouseholdAppliance.dll
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice17\HouseholdAppliance\obj\Debug\net6.0\HouseholdAppliance.pdb
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice17\HouseholdAppliance\obj\Debug\net6.0\HouseholdAppliance.genruntimeconfig.cache
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice17\HouseholdAppliance\obj\Debug\net6.0\ref\HouseholdAppliance.dll
