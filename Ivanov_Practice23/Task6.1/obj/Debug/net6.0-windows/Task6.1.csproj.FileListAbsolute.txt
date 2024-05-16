@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice23\Practice23\Task6.1\bin\Debug\net6.0-windows\Task6.1.exe
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice23\Practice23\Task6.1\bin\Debug\net6.0-windows\Task6.1.deps.json
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice23\Practice23\Task6.1\bin\Debug\net6.0-windows\Task6.1.runtimeconfig.json
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice23\Practice23\Task6.1\bin\Debug\net6.0-windows\Task6.1.dll
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice23\Practice23\Task6.1\bin\Debug\net6.0-windows\Task6.1.pdb
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice23\Practice23\Task6.1\obj\Debug\net6.0-windows\Task6._1.Form1.resources
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice23\Practice23\Task6.1\obj\Debug\net6.0-windows\Task6.1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice23\Practice23\Task6.1\obj\Debug\net6.0-windows\Task6.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice23\Practice23\Task6.1\obj\Debug\net6.0-windows\Task6.1.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice23\Practice23\Task6.1\obj\Debug\net6.0-windows\Task6.1.AssemblyInfo.cs
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice23\Practice23\Task6.1\obj\Debug\net6.0-windows\Task6.1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice23\Practice23\Task6.1\obj\Debug\net6.0-windows\Task6.1.dll
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice23\Practice23\Task6.1\obj\Debug\net6.0-windows\refint\Task6.1.dll
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice23\Practice23\Task6.1\obj\Debug\net6.0-windows\Task6.1.pdb
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice23\Practice23\Task6.1\obj\Debug\net6.0-windows\Task6.1.genruntimeconfig.cache
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice23\Practice23\Task6.1\obj\Debug\net6.0-windows\ref\Task6.1.dll
