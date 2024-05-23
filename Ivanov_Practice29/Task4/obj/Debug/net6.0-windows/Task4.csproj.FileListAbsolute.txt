@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice29\Practice29\Task4\bin\Debug\net6.0-windows\Task4.exe
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice29\Practice29\Task4\bin\Debug\net6.0-windows\Task4.deps.json
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice29\Practice29\Task4\bin\Debug\net6.0-windows\Task4.runtimeconfig.json
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice29\Practice29\Task4\bin\Debug\net6.0-windows\Task4.dll
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice29\Practice29\Task4\bin\Debug\net6.0-windows\Task4.pdb
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice29\Practice29\Task4\obj\Debug\net6.0-windows\Task4.Form1.resources
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice29\Practice29\Task4\obj\Debug\net6.0-windows\Task4.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice29\Practice29\Task4\obj\Debug\net6.0-windows\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice29\Practice29\Task4\obj\Debug\net6.0-windows\Task4.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice29\Practice29\Task4\obj\Debug\net6.0-windows\Task4.AssemblyInfo.cs
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice29\Practice29\Task4\obj\Debug\net6.0-windows\Task4.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice29\Practice29\Task4\obj\Debug\net6.0-windows\Task4.dll
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice29\Practice29\Task4\obj\Debug\net6.0-windows\refint\Task4.dll
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice29\Practice29\Task4\obj\Debug\net6.0-windows\Task4.pdb
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice29\Practice29\Task4\obj\Debug\net6.0-windows\Task4.genruntimeconfig.cache
+C:\Users\USER\Desktop\36ТП\3 курс\Практика Толочко\Ivanov_Practice29\Practice29\Task4\obj\Debug\net6.0-windows\ref\Task4.dll
