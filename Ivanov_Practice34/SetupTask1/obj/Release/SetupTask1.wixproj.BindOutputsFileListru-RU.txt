@@ -1,0 +1,3 @@
+C:\Users\USER\Desktop\36ТП\Tema34\SetupProjectTask1\bin\Release\ru-RU\cab1.cab
+C:\Users\USER\Desktop\36ТП\Tema34\SetupProjectTask1\bin\Release\ru-RU\SetupProjectTask1.msi
+C:\Users\USER\Desktop\36ТП\Tema34\SetupProjectTask1\bin\Release\ru-RU\SetupProjectTask1.wixpdb

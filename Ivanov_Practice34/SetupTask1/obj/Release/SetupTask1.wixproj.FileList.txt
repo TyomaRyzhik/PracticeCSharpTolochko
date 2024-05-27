@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\36ТП\Tema34\SetupProjectTask1\bin\Release\ru-RU\cab1.cab
+C:\Users\USER\Desktop\36ТП\Tema34\SetupProjectTask1\bin\Release\ru-RU\SetupProjectTask1.msi
+C:\Users\USER\Desktop\36ТП\Tema34\SetupProjectTask1\bin\Release\ru-RU\SetupProjectTask1.wixpdb
+obj\Release\Product.wixobj
+obj\Release\SetupTask1.wixproj.BindContentsFileListru-RU.txt
+obj\Release\SetupTask1.wixproj.BindOutputsFileListru-RU.txt
+obj\Release\SetupTask1.wixproj.BindBuiltOutputsFileListru-RU.txt
